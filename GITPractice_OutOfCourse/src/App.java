@@ -5,7 +5,7 @@ public class App {
 
         System.out.println("El primer cambio en la rama principal");
 
-        Persona p1 = new Persona("Gonzalo", 47);
+        Persona p1 = new Persona("Laura", 46);
         System.out.println(p1);
     }
 }
