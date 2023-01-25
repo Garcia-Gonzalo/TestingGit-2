@@ -7,5 +7,8 @@ public class App {
 
         Persona p1 = new Persona("Laura", 46);
         System.out.println(p1);
+
+        Persona p2 = new Persona("Julian", 15);
+        
     }
 }
