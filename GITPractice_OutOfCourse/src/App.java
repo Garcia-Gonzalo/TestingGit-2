@@ -9,6 +9,6 @@ public class App {
         System.out.println(p1);
 
         Persona p2 = new Persona("Julian", 15);
-        
+        System.out.println(p2);
     }
 }
